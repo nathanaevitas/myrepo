@@ -1,2 +1,3 @@
 my new text
 another new text
+new content
