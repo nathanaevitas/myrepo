@@ -1,3 +1,4 @@
 my new text
 another new text
 new content
+add new again
